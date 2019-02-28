@@ -1,0 +1,42 @@
+<style>
+.container{background:#F2F2F2; }
+.navbar-inverse: {background-color: #555;}
+
+.teste {
+ display: inline;
+ float: right;
+}
+.SegundoHeader{background-color: #E6E6E6;
+	margin-top: 50px;
+	text-align:center;
+}
+
+footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+.navbar-inverse .li{
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    color: yellow;
+}
+
+.main{background: #FAFAFA;}
+
+.container-fluid_rodape {margin-top: 80px;}
+
+.tabela{background-color: #F2F2F2;
+	    margin-top: 50px;
+		text-align:center;				
+        }
+
+
+</style>
